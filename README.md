@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">2nd year IT student at Université Paris - Rives de Seine (Descartes)</h3>
 
-- 🌱 I’m currently learning **how to refactor PHP code legacy**
-  <h3 align="left">Languages :</h3>
+- 🔭 At the moment, I’m working on **ToBee**, a <ins>beehive management</ins> application
+
+- 🌱 I’m currently learning **React Native**
+- <h3 align="left">Languages :</h3>
 <p> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:10px;"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:10px;"/> </a> 
