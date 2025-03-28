@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
-<h3 align="center">2nd year IT student at Université Paris - Rives de Seine (Descartes)</h3>
+<h3 align="center">3rd year IT student at EFREI Paris</h3>
 
 - 🔭 At the moment, I’m working on **ToBee**, a <ins>beehive management</ins> application
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React / Next**
 - <h3 align="left">Languages :</h3>
 <p> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:10px;"/> </a> 
@@ -22,7 +22,7 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right:10px;"/> </a> 
     <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src=https://s2.qwant.com/thumbr/0x380/f/9/553f4e4765623be34918ff091330b5399640f21109d3d2bc7b9f697425cdc0/jquery-logo-png--512.png?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fjquery-logo-png--512.png&q=0&b=1&p=0&a=0 alt="JQuery" width="40" height="40" style="margin-right:10px;"/> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right:10px;"/> </a> 
-    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src=https://s1.qwant.com/thumbr/0x0/0/5/59bb03e0e43c0b99c390148ec41a11faed2e9f063c2d6b20db1d82082a7889/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png?u=https%3A%2F%2Fimg.stackshare.io%2Fservice%2F11955%2Fdefault_48baa40615243f437bc3b182e62ddfe0290fca4b.png&q=0&b=1&p=0&a=0 alt="Playwright" width="40" height="40" style="margin-right:10px;"/> </a>
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src=https://playwright.dev/img/playwright-logo.svg alt="Playwright" width="40" height="40" style="margin-right:10px;"/> </a>
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src=https://s1.qwant.com/thumbr/0x380/3/7/d4e01cca03f9afba14e8b8a5ee859a01a56a6bebc6a0a13cc441f175289c46/cucumber-logo.png?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fcucumber-logo.png&q=0&b=1&p=0&a=0 alt="cucumber" width="40" height="40" style="margin-right:10px;"/> </a> 
     <a href="https://phpstan.org/" target="_blank" rel="noreferrer"> <img src="https://s1.qwant.com/thumbr/0x380/8/c/d04388392be97ce61eec0df7131713267492eb6aebcd41b158353eb4df5735/phpstan_logo.png?u=https%3A%2F%2Fwww.clickstorm.de%2Fblog%2Fwp-content%2Fuploads%2F2022%2F09%2Fphpstan_logo.png&q=0&b=1&p=0&a=0" alt="PHPStan" width="40" height="40" style="margin-right:10px;"/> </a>
     <a href="https://getrector.com/" target="_blank" rel="noreferrer"> <img src=https://avatars.githubusercontent.com/u/32097581?s=48&v=4 alt="Rector" width="40" height="40" style="margin-right:10px;"/> </a>
